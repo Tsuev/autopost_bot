@@ -1,5 +1,5 @@
 module.exports = {
-  API_KEY: '6989278045:AAGdPbAhgW438EGvyyi1kf7Y_zTkMe01y6s',
-  CHANNELID: '@aboutfrontend',
-  ADMINID: 344486749,
+  API_KEY: 'ChadAPI-KEY',
+  CHANNELID: '@your-channel-id',
+  ADMINID: 'your-tg-id',
 }
